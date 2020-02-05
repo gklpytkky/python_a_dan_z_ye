@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fb104a3-55ad-43cf-b985-e9d8727fe5f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/program_7.py" />
+    </disable_hints>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/program_7.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1WWXZ2H1l39AVdVH6NJ0Ibig247" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\gokalp\udemy\python_a_dan_z_ye\pycharm" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.program_7">
+    <configuration name="formatMetot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/formatMetot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kutuphane" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kutuphane.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="program_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/program_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.program_7" />
+        <item itemvalue="Python.kutuphane" />
+        <item itemvalue="Python.formatMetot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fb104a3-55ad-43cf-b985-e9d8727fe5f2" name="Default Changelist" comment="" />
+      <created>1579266376974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579266376974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="172" key="#Inspections" timestamp="1580373165082">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="553" y="172" key="#Inspections/0.0.1920.1019/-1680.22.1680.989@0.0.1920.1019" timestamp="1580373165082" />
+    <state x="414" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579503841213">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="414" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1019/-1680.36.1680.989@0.0.1920.1019" timestamp="1579503841213" />
+    <state x="679" y="136" key="#program_7" timestamp="1580372818323">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="679" y="136" key="#program_7/0.0.1920.1019/-1680.22.1680.989@0.0.1920.1019" timestamp="1580372818323" />
+    <state width="1362" height="259" key="GridCell.Tab.0.bottom" timestamp="1580374067948">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1362" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1019/-1680.22.1680.989@0.0.1920.1019" timestamp="1580374067948" />
+    <state width="1899" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1019/-1680.36.1680.989@0.0.1920.1019" timestamp="1579684058578" />
+    <state width="1362" height="259" key="GridCell.Tab.0.center" timestamp="1580374067948">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1362" height="259" key="GridCell.Tab.0.center/0.0.1920.1019/-1680.22.1680.989@0.0.1920.1019" timestamp="1580374067948" />
+    <state width="1899" height="275" key="GridCell.Tab.0.center/0.0.1920.1019/-1680.36.1680.989@0.0.1920.1019" timestamp="1579684058578" />
+    <state width="1362" height="259" key="GridCell.Tab.0.left" timestamp="1580374067948">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1362" height="259" key="GridCell.Tab.0.left/0.0.1920.1019/-1680.22.1680.989@0.0.1920.1019" timestamp="1580374067948" />
+    <state width="1899" height="275" key="GridCell.Tab.0.left/0.0.1920.1019/-1680.36.1680.989@0.0.1920.1019" timestamp="1579684058578" />
+    <state width="1362" height="259" key="GridCell.Tab.0.right" timestamp="1580374067948">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1362" height="259" key="GridCell.Tab.0.right/0.0.1920.1019/-1680.22.1680.989@0.0.1920.1019" timestamp="1580374067948" />
+    <state width="1899" height="275" key="GridCell.Tab.0.right/0.0.1920.1019/-1680.36.1680.989@0.0.1920.1019" timestamp="1579684058578" />
+    <state width="1362" height="320" key="GridCell.Tab.1.bottom" timestamp="1580373990206">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1362" height="320" key="GridCell.Tab.1.bottom/0.0.1920.1019/-1680.22.1680.989@0.0.1920.1019" timestamp="1580373990206" />
+    <state width="1899" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1019/-1680.36.1680.989@0.0.1920.1019" timestamp="1579506069733" />
+    <state width="1362" height="320" key="GridCell.Tab.1.center" timestamp="1580373990206">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1362" height="320" key="GridCell.Tab.1.center/0.0.1920.1019/-1680.22.1680.989@0.0.1920.1019" timestamp="1580373990206" />
+    <state width="1899" height="339" key="GridCell.Tab.1.center/0.0.1920.1019/-1680.36.1680.989@0.0.1920.1019" timestamp="1579506069733" />
+    <state width="1362" height="320" key="GridCell.Tab.1.left" timestamp="1580373990206">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1362" height="320" key="GridCell.Tab.1.left/0.0.1920.1019/-1680.22.1680.989@0.0.1920.1019" timestamp="1580373990206" />
+    <state width="1899" height="339" key="GridCell.Tab.1.left/0.0.1920.1019/-1680.36.1680.989@0.0.1920.1019" timestamp="1579506069733" />
+    <state width="1362" height="320" key="GridCell.Tab.1.right" timestamp="1580373990206">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1362" height="320" key="GridCell.Tab.1.right/0.0.1920.1019/-1680.22.1680.989@0.0.1920.1019" timestamp="1580373990206" />
+    <state width="1899" height="339" key="GridCell.Tab.1.right/0.0.1920.1019/-1680.36.1680.989@0.0.1920.1019" timestamp="1579506069733" />
+    <state x="461" y="152" key="SettingsEditor" timestamp="1579503901861">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="461" y="152" key="SettingsEditor/0.0.1920.1019/-1680.36.1680.989@0.0.1920.1019" timestamp="1579503901861" />
+    <state x="661" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1580372122078">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="661" y="334" key="com.intellij.ide.util.TipDialog/0.0.1920.1019/-1680.22.1680.989@0.0.1920.1019" timestamp="1580372122078" />
+    <state x="661" y="334" key="com.intellij.ide.util.TipDialog/0.0.1920.1019/-1680.36.1680.989@0.0.1920.1019" timestamp="1579680757905" />
+    <state x="531" y="246" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580372600064">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="531" y="246" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1019/-1680.22.1680.989@0.0.1920.1019" timestamp="1580372600064" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/program_7.py</url>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/program_7.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/program_7.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/program_7.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/program_7.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
